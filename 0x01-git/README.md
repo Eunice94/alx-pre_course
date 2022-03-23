@@ -1,1 +1,1 @@
-Thsi is a second readme file
+This is a second read me file.
