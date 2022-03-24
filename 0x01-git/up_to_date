@@ -1,1 +1,1 @@
-vi <file name>
+echo "Some line" > file1.txt
